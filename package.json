@@ -5,7 +5,10 @@
   "homepage": "http://ahfarmer.github.io/emoji-search",
   "devDependencies": {
     "gh-pages": "^1.1.0",
-    "react-scripts": "^1.0.17"
+    "react-scripts": "^1.0.17",
+    "eslint-plugin-react": "^7.6.1",
+    "babel-eslint": "^8.0.3",
+    "eslint-config-airbnb-base": "^12.1.0"
   },
   "dependencies": {
     "clipboard": "^1.7.1",
